@@ -1,0 +1,2 @@
+# task-management-app
+a Task Management Application in C++. This is a console-based interface which involves creating, managing, and organizing tasks. It includes basic functionalities like adding tasks, deleting tasks, updating task details, marking tasks as completed, and displaying all tasks.a Task Management Application in C++. This is a console-based interface which involves creating, managing, and organizing tasks. It includes basic functionalities like adding tasks, deleting tasks, updating task details, marking tasks as completed, and displaying all tasks.
